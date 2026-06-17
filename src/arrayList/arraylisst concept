@@ -1,0 +1,18 @@
+ArrayList in Java Collections
+
+ArrayList is a class in the Java Collections Framework that implements the List interface. It is used to store a dynamic array of elements.
+
+Features of ArrayList
+✅ Dynamic size (grows and shrinks automatically)
+✅ Maintains insertion order
+✅ Allows duplicate elements
+✅ Allows null values
+✅ Fast random access using index
+❌ Slow for frequent insertion/deletion in the middle
+
+
+Syntax
+
+import java.util.ArrayList;
+
+ArrayList<DataType> list = new ArrayList<>();
